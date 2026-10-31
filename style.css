@@ -1,18 +1,18 @@
-/* ===== Tokens de cor (Graphite + Orange) ===== */
+/* ===== Tokens de cor (Preto, Azul-marinho, Laranja, Cinza claro, Branco) ===== */
 :root{
-  --bg:#171717; --surface:#262626; --text:#F5F5F0; --muted:#B8C0CC;
-  --accent:#FF7849; --accent-ink:#171717; --accent-text:#FF7849;
-  --line:rgba(245,245,240,.12); --line-strong:rgba(245,245,240,.24);
-  --bar:rgba(184,192,204,.34);
+  --bg:#000000; --surface:#14213D; --text:#FFFFFF; --muted:#C7CBD4;
+  --accent:#FCA311; --accent-ink:#000000; --accent-text:#FCA311;
+  --line:rgba(229,229,229,.14); --line-strong:rgba(229,229,229,.3);
+  --bar:rgba(229,229,229,.3);
   --font:"Space Grotesk",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
   --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
   color-scheme:dark;
 }
 :root[data-theme="light"]{
-  --bg:#F5F5F0; --surface:#FFFFFF; --text:#171717; --muted:#4B5563;
-  --accent:#FF7849; --accent-ink:#171717; --accent-text:#B93A0C;
-  --line:rgba(23,23,23,.14); --line-strong:rgba(23,23,23,.28);
-  --bar:rgba(23,23,23,.2);
+  --bg:#FFFFFF; --surface:#E5E5E5; --text:#14213D; --muted:#4A5468;
+  --accent:#FCA311; --accent-ink:#000000; --accent-text:#8F5400;
+  --line:rgba(20,33,61,.16); --line-strong:rgba(20,33,61,.32);
+  --bar:rgba(20,33,61,.28);
   color-scheme:light;
 }
 

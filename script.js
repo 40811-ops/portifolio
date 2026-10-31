@@ -15,7 +15,7 @@
   function setTheme(t) {
     root.dataset.theme = t;
     themeBtn.setAttribute('aria-label', t === 'light' ? 'Ativar tema escuro' : 'Ativar tema claro');
-    document.querySelector('meta[name="theme-color"]').content = t === 'light' ? '#F5F5F0' : '#171717';
+    document.querySelector('meta[name="theme-color"]').content = t === 'light' ? '#FFFFFF' : '#000000';
   }
   setTheme(root.dataset.theme === 'light' ? 'light' : 'dark');
   themeBtn.addEventListener('click', () => {
@@ -156,14 +156,15 @@
 
   function update() {
     readScroll();
-    if (reduced.matches) { cur = Math.round(target); apply(cur); return; }
+    // Movimento reduzido: sem suavização no tempo, o efeito acompanha o scroll 1:1
+    if (reduced.matches) { cur = target; apply(cur); return; }
     if (!raf) raf = requestAnimationFrame(frame);
   }
 
   let resizeTimer = 0;
   function relayout() {
     measure(); build(); readScroll();
-    cur = reduced.matches ? Math.round(target) : target;
+    cur = target;
     apply(cur);
   }
 

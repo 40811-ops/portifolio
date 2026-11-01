@@ -1,27 +1,72 @@
-# Referências visuais do portfólio
+# Referências visuais do projeto
 
-**Objetivo:** usar as referências como inspiração para decisões específicas de design, sem copiar integralmente nenhum site. Antes da entrega, abrir cada link no navegador, confirmar que está correto e adicionar uma captura de tela de cada referência, se possível.
+O objetivo das referências é orientar a criação de um portfólio minimalista, moderno e sofisticado.
 
-## 1. Floema
-- **Link:** https://floema.com/en
-- **O que observar:** tipografia, espaçamento, composição do texto e transições durante a rolagem.
-- **Como aplicar:** usar títulos expressivos, bom espaço entre os elementos e uma transição suave entre seções; experimentar uma sobreposição discreta de seções apenas se continuar fácil de navegar.
-- **O que não copiar:** o menu superior e a identidade visual completa do site.
+A principal inspiração será o site Reseda, complementado por outras referências de fotografia, design editorial e experiências digitais.
 
-## 2. Referência de menu vertical — escolher e confirmar
-- **Link:** https://theshift.tokyo/
-- **O que observar:** menu posicionado no canto superior esquerdo, organização vertical e indicação clara da seção atual.
-- **Como aplicar:** criar um menu vertical simples, compacto e adaptável a telas pequenas.
-- **O que não copiar:** a composição completa, a marca ou os elementos exclusivos do site de referência.
+## Site 1 — Reseda Fluid Demo
 
-## 3. Terminal Industries
-- **Link:** https://terminal-industries.com/
-- **O que observar:** uso de branco e verde-escuro, contraste e apresentação visual.
-- **Como aplicar:** adotar a combinação de branco, verde-escuro e verde-limão, mantendo uma identidade própria.
-- **O que não copiar:** logotipo, textos, imagens ou layout integral do site.
+Link: https://reseda-fluid-demo-pt.squarespace.com/
 
-## Observação importante
-A segunda referência do arquivo original estava com o mesmo link da primeira, portanto o nome “theshift/tokio” não pôde ser confirmado. Substitua o campo acima por um site real que você tenha encontrado no Awwwards ou no SiteInspire e confira o endereço antes da entrega.
+### O que aproveitar:
+- Tipografia gigante e em destaque na página inicial.
+- Layout minimalista e editorial.
+- Fundo claro com textos escuros.
+- Menu superior discreto.
+- Imagens grandes e bem posicionadas.
+- Uso inteligente de espaços vazios.
+- Organização visual assimétrica.
+- Apresentação de conteúdo com textos curtos.
 
-## Como justificar as escolhas
-A paleta verde-escuro, branco e verde-limão foi escolhida para criar contraste e uma identidade visual consistente. A tipografia e o espaçamento das referências inspiram uma leitura mais editorial. O menu vertical organiza a navegação, enquanto as animações suaves dão dinamismo sem competir com os projetos. As referências orientam elementos específicos, mas o conteúdo, a composição final e os projetos serão próprios.
+### O que NÃO copiar:
+- Identidade visual específica da marca Reseda.
+- Textos e conteúdos originais.
+- Estrutura comercial de loja.
+- Carrinho de compras.
+- Elementos que não façam sentido em um portfólio pessoal.
+
+## Site 2 — STILL Visual Studio
+
+Link: https://framplates.com/still-visual-studio
+
+### O que aproveitar:
+- Organização visual dos projetos.
+- Galeria com diferentes proporções de imagens.
+- Distribuição equilibrada dos elementos.
+- Espaçamento entre seções.
+- Apresentação visual dos trabalhos.
+
+### O que NÃO copiar:
+- Identidade visual original.
+- Conteúdos e imagens exclusivos.
+- Estrutura específica de um estúdio comercial.
+
+## Site 3 — Calvin Pausania
+
+Link: https://www.wix.com/explore/websites/site/calvin-pausania
+
+### O que aproveitar:
+- Experiência visual com fundo escuro.
+- Fotografias em destaque.
+- Contraste entre imagens e tipografia.
+- Organização dos trabalhos em coleções.
+- Inspiração para o modo escuro do portfólio.
+
+### O que NÃO copiar:
+- Estrutura completa do site.
+- Identidade visual do fotógrafo.
+- Conteúdo e fotografias originais.
+
+## Direção visual geral
+
+Combinar os melhores elementos das referências para desenvolver uma experiência própria.
+
+O resultado deve apresentar:
+- Estética minimalista e editorial.
+- Tipografia grande e expressiva.
+- Galeria visual de projetos.
+- Navegação simples e elegante.
+- Alternância entre modo claro e escuro.
+- Animações suaves e interativas.
+
+As referências servem como inspiração, não como modelos para reprodução exata.
